@@ -1,2 +1,4 @@
-# UnitySpinningLoadingBars
-3 different spinning loading bar prefabs for Unity's UI system
+# Spinning Loading Bars for Unity UI
+![](animation.gif?raw=true "")
+
+Source PSD files are included. You can modify/redistribute it however you like; enjoy!
